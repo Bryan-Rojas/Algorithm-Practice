@@ -6,6 +6,7 @@ Example:
 
 n = 15,
 
+```
 Return:
 [
     "1",
@@ -24,3 +25,4 @@ Return:
     "14",
     "FizzBuzz"
 ]
+```
